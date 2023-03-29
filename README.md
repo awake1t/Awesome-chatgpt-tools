@@ -23,6 +23,44 @@
 
 ## Detail
 
+
+
+
+
+
+
+## Detail
+
+
+
+### **chatbase **
+
+**添加日期:** 2023-03-29 
+
+**类型:** 机器人工具
+
+**标签:** 总结摘要
+
+**描述:** 自动采集你的网站/博客并且生成一个bot，支持JS嵌入。最终你有什么问题可以直接问机器人(免费版30次/月)
+
+**网址:** https://www.chatbase.co/
+
+
+
+### **myGPTReader **
+
+**添加日期:** 2023-03-29 
+
+**类型:** 开源项目 
+
+**标签:** 总结摘要
+
+**描述:** 一个 Slack 机器人，可以阅读任何网页、电子书、视频（YouTube）或文件，并通过 chatGPT 进行总结。它还可以通过语音与你交谈
+
+**网址:** https://github.com/madawei2699/myGPTReader
+
+
+
 ### **xiaogpt **
 
 **类型:** 开源项目 
@@ -118,7 +156,6 @@
 **描述:** 使用 ChatGPT API 生成 Google 搜索结果或 YouTube 视频的摘要。该扩展还支持 ChatGPT Webapp 的 API，无需配置即可使用 
 
 **网址:**  https://glarity.app
-
 
 
 
