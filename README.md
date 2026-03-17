@@ -19,6 +19,7 @@
 | [bob](https://github.com/yetone/bob-plugin-openai-translator) | 基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代 |
 | [哔哩终结者](https://b.jimmylv.cn/)                          | 一键总结哔哩哔哩/YouTube内容                                 |
 | [bilingual_book_maker]( https://github.com/yihong0618/bilingual_book_maker) | 一个 AI 翻译工具，基于ChatGPT制作双语 epub 电子书的 Python 脚本 |
+| [BGPT MCP](https://github.com/connerlambden/bgpt-mcp) | MCP server for searching scientific papers and returning structured experimental data (methods, results, sample sizes) extracted from full-text studies |
 
 
 
@@ -163,6 +164,18 @@
 **描述:** 使用 ChatGPT API 生成 Google 搜索结果或 YouTube 视频的摘要。该扩展还支持 ChatGPT Webapp 的 API，无需配置即可使用 
 
 **网址:**  https://glarity.app
+
+
+
+### BGPT MCP
+
+**类型:** 开源项目
+
+**标签:** 科研工具
+
+**描述:** MCP server for searching scientific papers and returning structured experimental data (methods, results, sample sizes) extracted from full-text studies
+
+**网址:** https://github.com/connerlambden/bgpt-mcp
 
 
 
