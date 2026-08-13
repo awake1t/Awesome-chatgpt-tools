@@ -1,3 +1,5 @@
+
+
 # Awesome-chatgpt-tools
 
 
@@ -10,7 +12,7 @@
 | 名称                                                         | 说明                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [regex](https://regex.ai/)                                   | AI帮你写正则,太好了耶！                                      |
-| [myGPTReader](https://www.chatbase.co/)                      | 一个 Slack 机器人，可以阅读任何网页、电子书、视频（YouTube）或文件，并通过 chatGPT 进行总结。它还可以通过语音与你交谈 |
+| [myGPTReader](https://github.com/madawei2699/myGPTReader)    | 一个 Slack 机器人，可以阅读任何网页、电子书、视频（YouTube）或文件，并通过 chatGPT 进行总结。它还可以通过语音与你交谈 |
 | [chatbase](https://www.chatbase.co/)                         | 自动采集你的网站/博客并且生成一个bot，支持JS嵌入。最终你有什么问题可以直接问机器人(免费版30次/月) |
 | [Glarity](https://glarity.app)                               | 用 ChatGPT API 生成 Google 搜索结果或 YouTube 视频的摘要。该扩展还支持 ChatGPT Webapp 的 API，无需配置即可使用 |
 | [ChatMind](https://www.chatmind.tech/)                       | 与 AI 的对话生成和编辑思维导图的工具，支持上下文改写扩充对话，ChatMind AI 可用于多种场景，例如记笔记、日程安排、项目管理、头脑风暴、框架等等 |
@@ -152,8 +154,6 @@
 
 
 
-
-
 ### Glarity 
 
 **类型:** 网址
@@ -163,6 +163,3 @@
 **描述:** 使用 ChatGPT API 生成 Google 搜索结果或 YouTube 视频的摘要。该扩展还支持 ChatGPT Webapp 的 API，无需配置即可使用 
 
 **网址:**  https://glarity.app
-
-
-
