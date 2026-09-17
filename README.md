@@ -13,6 +13,7 @@
 | [myGPTReader](https://www.chatbase.co/)                      | 一个 Slack 机器人，可以阅读任何网页、电子书、视频（YouTube）或文件，并通过 chatGPT 进行总结。它还可以通过语音与你交谈 |
 | [chatbase](https://www.chatbase.co/)                         | 自动采集你的网站/博客并且生成一个bot，支持JS嵌入。最终你有什么问题可以直接问机器人(免费版30次/月) |
 | [Glarity](https://glarity.app)                               | 用 ChatGPT API 生成 Google 搜索结果或 YouTube 视频的摘要。该扩展还支持 ChatGPT Webapp 的 API，无需配置即可使用 |
+| [蓝博API 接入指南](https://github.com/hope0719/lanbuff-api-guide) | 蓝博API（OpenAI/Anthropic/Gemini 兼容中转）的客户端配置合集与接入教程：NextChat / LobeChat / ChatBox / Claude Code / Gemini CLI 配置步骤 + 可运行 curl/Python/Node 示例 |
 | [ChatMind](https://www.chatmind.tech/)                       | 与 AI 的对话生成和编辑思维导图的工具，支持上下文改写扩充对话，ChatMind AI 可用于多种场景，例如记笔记、日程安排、项目管理、头脑风暴、框架等等 |
 | [ChatPDF](https://www.chatpdf.com/)                          | 把你的PDF文件上传，它就能为你读出里面的内容，而且还支持中文提问哦. 用它来阅读论文，不仅省去了翻译的麻烦，还能让你更加深入地理解论文 |
 | [xiaogpt](https://github.com/yihong0618/xiaogpt)             | 让小爱音响支持ChatGPT                                        |
