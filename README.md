@@ -19,7 +19,7 @@
 | [bob](https://github.com/yetone/bob-plugin-openai-translator) | 基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代 |
 | [哔哩终结者](https://b.jimmylv.cn/)                          | 一键总结哔哩哔哩/YouTube内容                                 |
 | [bilingual_book_maker]( https://github.com/yihong0618/bilingual_book_maker) | 一个 AI 翻译工具，基于ChatGPT制作双语 epub 电子书的 Python 脚本 |
-
+| [Raphael AI](https://raphael.app)                          | 免费无限次 AI 文生图工具                                      |
 
 
 ## Detail
@@ -165,4 +165,18 @@
 **网址:**  https://glarity.app
 
 
+
+
+
+### Raphael AI
+
+**添加日期:** 2026-09-28
+
+**类型:** 网址
+
+**标签:** 图像生成
+
+**描述:** 免费无限次 AI 文生图（text to image）工具
+
+**网址:** https://raphael.app
 
