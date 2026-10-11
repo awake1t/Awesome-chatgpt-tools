@@ -19,10 +19,23 @@
 | [bob](https://github.com/yetone/bob-plugin-openai-translator) | 基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代 |
 | [哔哩终结者](https://b.jimmylv.cn/)                          | 一键总结哔哩哔哩/YouTube内容                                 |
 | [bilingual_book_maker]( https://github.com/yihong0618/bilingual_book_maker) | 一个 AI 翻译工具，基于ChatGPT制作双语 epub 电子书的 Python 脚本 |
+| [Lynote Humanize Text](https://github.com/lynote-ai/humanize-text) | MIT 开源文本改写工具，支持 OpenAI 兼容的 LLM 接口、多语言翻译链和 n8n 工作流，并提供结构优先的 SFT/KTO 训练数据构建代码 |
 
 
 
 ## Detail
+
+### Lynote Humanize Text
+
+**添加日期:** 2026-10-11
+
+**类型:** 开源项目
+
+**标签:** 文本改写、写作润色、工作流
+
+**描述:** 使用可配置的 OpenAI 兼容 LLM 接口执行两轮改写，再通过 Google 和 Niutrans 完成跨引擎翻译。默认使用 DeepSeek，也可配置其他兼容接口。仓库包含 Python 实现、n8n 工作流和结构优先的 SFT/KTO 训练数据构建管线；该数据管线未发布模型权重。源码采用 MIT 许可证，运行翻译链需要相应服务的 API 密钥。
+
+**网址:** https://github.com/lynote-ai/humanize-text
 
 
 
