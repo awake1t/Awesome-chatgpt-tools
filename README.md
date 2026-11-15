@@ -19,6 +19,7 @@
 | [bob](https://github.com/yetone/bob-plugin-openai-translator) | 基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代 |
 | [哔哩终结者](https://b.jimmylv.cn/)                          | 一键总结哔哩哔哩/YouTube内容                                 |
 | [bilingual_book_maker]( https://github.com/yihong0618/bilingual_book_maker) | 一个 AI 翻译工具，基于ChatGPT制作双语 epub 电子书的 Python 脚本 |
+| [No Stairs Please](https://nostairsplease.com/mcp) | 独立乐队与演出经纪人的现场音乐场地目录与 MCP 服务器，支持查询 3,400+ 小型演出场地。 |
 
 
 
